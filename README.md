@@ -1,8 +1,8 @@
-# ThreatHunter Chronicles 🛡️📜
-[![Deploy to GitHub Pages](https://github.com/PaleSkinnySwede/threathunter-chronicles.github.io/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/PaleSkinnySwede/threathunter-chronicles.github.io/actions/workflows/pages-deploy.yml)
+# Development Lair 🛡️📜
+XXXX
 
 **Logs, detections, and side quests in the digital wilderness.**  
-A cybersecurity blog powered by [Jekyll](https://jekyllrb.com) + [Chirpy Theme](https://github.com/cotes2020/jekyll-theme-chirpy), running on GitHub Pages.
+A blog powered by [Jekyll](https://jekyllrb.com) + [Chirpy Theme](https://github.com/cotes2020/jekyll-theme-chirpy), running on GitHub Pages.
 
 ## 📚 Categories
 
