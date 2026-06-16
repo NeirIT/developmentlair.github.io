@@ -35,5 +35,3 @@ bundle exec jekyll serve --livereload
 - GitHub Pages
 - Markdown + Liquid
 - DevContainer with zsh + OMZ
-
-Built with ❤️ by [@paleskinnyswede](https://github.com/paleskinnyswede) – Microsoft MVP and analyst at dawn
